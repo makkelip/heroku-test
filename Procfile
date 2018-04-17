@@ -1,1 +1,1 @@
-web: java -jar build/server/jetty-runner.jar build/libs/gradleWebApp.war
+web: java -jar build/server/jetty-runner.jar --port $PORT build/libs/gradleWebApp.war
