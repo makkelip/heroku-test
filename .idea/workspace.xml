@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d80ca0e5-ccd5-4318-a27e-2b7be79c305f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/gradle/demo/Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/gradleWebApp_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/gradleWebApp_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/gradleWebApp_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/gradleWebApp_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/gradle/demo/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/gradle/demo/Tests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -34,11 +31,14 @@
       <file leaf-file-name="Tests.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/org/gradle/demo/Tests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="238">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#149#150#0" expanded="true" />
                 <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -545,6 +545,14 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.gradle.demo" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -628,12 +636,12 @@
       <updated>1523344647141</updated>
       <workItem from="1523344653250" duration="1996000" />
       <workItem from="1523352880384" duration="1217000" />
-      <workItem from="1523951597945" duration="541000" />
+      <workItem from="1523951597945" duration="926000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3754000" />
+    <option name="totallyTimeSpent" value="4139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="781" height="831" extended-state="0" />
@@ -726,11 +734,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/org/gradle/demo/Tests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="238">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#149#150#0" expanded="true" />
             <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
           </folding>
         </state>
       </provider>
