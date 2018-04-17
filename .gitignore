@@ -1,6 +1,7 @@
 # .gitignore NetBeans Gradle projects
 # NetBeans
 .nb-gradle/
+.idea/
 
 # Gradle files
 .gradle/
