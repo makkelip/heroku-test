@@ -7,7 +7,7 @@ public class Tests {
 
     @Test
     public void dummyTest() {
-        assertEquals(0,1);
+        assertEquals(0,0);
     }
 
     @Test
